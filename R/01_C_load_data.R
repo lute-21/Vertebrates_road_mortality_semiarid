@@ -4,7 +4,8 @@
 library(here)
 
 #reading data-----------------------------------------------------------------
-raw_data<-read.csv("data","raw")
+
+raw_data<-read.csv(here("data","raw","Data_October_2017.csv"),sep= ";")
 
 #read results-----------------------------------------------------------------
 
