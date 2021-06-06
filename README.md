@@ -13,4 +13,4 @@
 	
 #Na pasta R há todos os scripts utilizados para carregar 	os arquivos, juntamente com os scripts com análise
 	
-#Finalmente na pasta Siriema estão os dados organizados com suas respectivas coordenadas para utilização do 	programa Siriema que pode ser baixado no link. Com ele é 	possível rodar os dados utilizando a R-ripley, para 	apresentar onde ocorreram hotspots.
+#Finalmente na pasta Siriema estão os dados organizados com suas respectivas coordenadas para utilização do 	programa Siriema que pode ser baixado no link http://www.ufrgs.br/siriema/.Com ele é 	possível rodar os dados utilizando a R-ripley, para 	apresentar onde ocorreram hotspots.
